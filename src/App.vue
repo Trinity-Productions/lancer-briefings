@@ -101,20 +101,20 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "callsign": "RED",
+          "alias": "Frank Redenbacher",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "Family Business"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
+          "callsign": "Yokai",
+          "alias": "Karitei Mo",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "Akuma"
         },
         {
           "callsign": "Starboard",
@@ -125,32 +125,32 @@ export default {
           "mech": "Scarlet Judicator"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
+          "callsign": "Vanguard",
+          "alias": "Ivan Daalgard",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
+          "mech": "Valhalla"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
+          "callsign": "JAHAJAH",
+          "alias": "Khajiit",
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "Lil Milf"
         },
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "C.C. Last Hope",
         "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
+        "system": "Blinkspace",
+        "gate": "NULL",
+        "ring": "NULL",
+        "headerTitle": "Cosmic",
+        "headerSubtitle": "Underground Militia",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "NULL",
       },
       "options":{
         "eventsMarkdownPerMission": true
