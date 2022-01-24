@@ -143,7 +143,7 @@ export default {
       ],
       "header": {
         "planet": "C.C. Last Hope",
-        "year": "5014u",
+        "year": "4269u",
         "system": "Blinkspace",
         "gate": "NULL",
         "ring": "NULL",
