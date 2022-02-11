@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "C.C. Last Hope",
+        "planet": "Strion-08",
         "year": "4269u",
-        "system": "Blinkspace",
-        "gate": "NULL",
-        "ring": "NULL",
+        "system": "Strion",
+        "gate": "SEC-1595",
+        "ring": "ORION",
         "headerTitle": "Cosmic",
         "headerSubtitle": "Underground Militia",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "NULL",
+        "subheaderSubtitle": "Trainee Team Bravo",
       },
       "options":{
         "eventsMarkdownPerMission": true
